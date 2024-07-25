@@ -1,0 +1,38 @@
+int choice;
+		Scanner sc = new Scanner(System.in);
+		
+		
+		
+				
+	}
+
+	@Override
+	public void list() throws SQLException 
+	{
+		
+		
+		
+	}
+
+	@Override
+	public void add(Users u) {
+
+		
+	}
+
+	@Override
+	public void delete(int id) {
+	
+		
+	}
+
+	@Override
+	public void search(int id) {
+		
+	}
+
+	@Override
+	public void update(int id, String pwd) {
+	
+		
+	}
